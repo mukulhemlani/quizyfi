@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+wikipedia
+beautifulsoup4
+pydantic
